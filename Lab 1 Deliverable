@@ -71,9 +71,27 @@ Entertainment hubs: Places of entertainment such as sports hubs and malls
 Government facilities: Facilities provided by the government such as Postal Office, Community Centres, and CPF building.
 
 Use Case Descriptions
-1. The user types in an area in the search bar.
-2. The system provides autocomplete suggestions based on what the user has typed.
-3. The user accepts the suggestion.
-4. The system lists out all nearby HDB flats in the area.
-5. The user requests additional detailed information on one of the HDB flats.
-6. The system provides detailed information about the HDB flat.
+Searching for HDBs
+User starts the application and views the main menu.
+User types in desired area or region of HDB in the search bar
+The system provides autocomplete suggestions based on what the user has typed.
+The user accepts the suggestion and initiates the search
+System lists out all relevant HDBs based on the user’s given criteria.
+The user selects one of the HDBs to view its detailed information.
+System will fetch the relevant data pertaining to the selected HDB and display it.
+
+Viewing Facilities
+The user selects the option to view nearby facilities around the HDB.
+The system will display the different types of facilities for the user to select in greater detail.
+The user selects one of the types to display. 
+The system displays the HDB flat on a map along with all the nearby selected facilities marked.
+The user selects one of the facilities to view its information.
+
+AF-S4:
+The user filters search based on price range and housing type.
+The system returns to Step 3.
+
+AF-S5:
+System is unable to find any HDBs with the user’s criteria.
+System will display an error message
+System will return back to Step 2.

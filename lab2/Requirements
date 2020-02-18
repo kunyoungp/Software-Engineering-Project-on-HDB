@@ -2,6 +2,7 @@ Introduction
 Team “Jaguar” has developed an application that simplifies the search experience for users who are looking to buy resale flats in Singapore. 
 The app utilizes up-to-date data from the government to provide a seamless search experience and detailed information for users. 
 It also allows users to filter HDBs by their preferences as well as view nearby facilities on the map. 
+Users are also able to view nearby facilities via the Google Map API implementation our application provides.
 
 
 Functional requirements

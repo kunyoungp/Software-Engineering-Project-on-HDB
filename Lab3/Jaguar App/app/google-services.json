@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080411023816",
+    "firebase_url": "https://jaguar-app-63a4b.firebaseio.com",
+    "project_id": "jaguar-app-63a4b",
+    "storage_bucket": "jaguar-app-63a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080411023816:android:6c7bbf49015da0e16e78fd",
+        "android_client_info": {
+          "package_name": "com.example.jaguarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080411023816-usq6pbntslajhlaa5645haev60fnu3kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaguarapp",
+            "certificate_hash": "cb99fc97d964cb292ea9ff4d81f015d3d55df15f"
+          }
+        },
+        {
+          "client_id": "1080411023816-acco4oa02fm42c0f1fa3vc84mhi7bmoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJt72wIJxdtnmHuCb4HO11P7efAepnXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080411023816-acco4oa02fm42c0f1fa3vc84mhi7bmoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

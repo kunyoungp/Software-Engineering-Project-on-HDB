@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Jaguar App</string>
+    <string-array name="Areas">
+        <item>ANG MO KIO</item>
+        <item>BEDOK</item>
+        <item>BISHAN</item>
+        <item>BUKIT BATOK</item>
+        <item>BUKIT MERAH</item>
+        <item>BUKIT PANJANG</item>
+        <item>BUKIT TIMAH</item>
+        <item>CENTRAL AREA</item>
+        <item>CHOA CHU KANG</item>
+        <item>CLEMENTI</item>
+        <item>GEYLANG</item>
+        <item>HOUGANG</item>
+        <item>JURONG EAST</item>
+        <item>JURONG WEST</item>
+        <item>KALLANG/WHAMPOA</item>
+        <item>MARINE PARADE</item>
+        <item>PASIR RIS</item>
+        <item>PUNGGOL</item>
+        <item>QUEENSTOWN</item>
+        <item>SEMBAWANG</item>
+        <item>SENGKANG</item>
+        <item>SERANGOON</item>
+        <item>TAMPINES</item>
+        <item>TOA PAYOH</item>
+        <item>WOODLANDS</item>
+        <item>YISHUN</item>
+    </string-array>
+    <string-array name="Types">
+        <item>1 ROOM</item>
+        <item>2 ROOM</item>
+        <item>3 ROOM</item>
+        <item>4 ROOM</item>
+        <item>5 ROOM</item>
+        <item>EXECUTIVE</item>
+        <item>MULTI-GENERATION</item>
+    </string-array>
+    <string-array name="Price_Range">
+        <item>Below SGD200k</item>
+        <item>From SGD200k to SGD400k</item>
+        <item>From SGD400k to SGD600k</item>
+        <item>From SGD600k to SGD800k</item>
+        <item>From SGD800k to SGD1000k</item>
+        <item>Above SGD1000k</item>
+    </string-array>
+</resources>
